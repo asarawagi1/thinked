@@ -1,6 +1,6 @@
 -- ws.page:
 
--- ws.hero-image-right: Easy payments and invoicing
+-- ws.hero-image-right: Easy payments, invoicing and content writing
 image: $assets.files.assets.invoicing.png
 link: /pricing/
 cta-primary: Check out pricing
