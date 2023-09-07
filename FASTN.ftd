@@ -16,6 +16,6 @@ favicon: /-/asarawagi1.github.io/thinked/favicon.ico
 -- fastn.sitemap:
 
 # Home: index.html
-# About Us: /about/
-# Contact: /contact/
-# Team: /team/
+# About Us: index.html#about
+# Contact: index.html#contact
+# Team: index.html#team
